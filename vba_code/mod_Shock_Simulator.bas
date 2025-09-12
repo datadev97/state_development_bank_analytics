@@ -114,7 +114,7 @@ Public Sub RunScenario()
     
     Dim rng As Range, txtCell As Range, ok As Boolean, fillColor As Long
     ok = (CET1_2 >= MINC_) And (LEV_2 >= MINL_) And (A2 > 0#) And (E2 > 0#)
-    fillColor = IIf(ok, RGB(198, 239, 206), RGB(255, 199, 206))
+    fillColor = IIf(ok, RGB(145, 209, 172), RGB(227, 144, 114))
     If oComp.MergeCells Then Set rng = oComp.MergeArea Else Set rng = oComp
     Set txtCell = rng.Cells(1, 1)
     If rng.FormatConditions.Count > 0 Then rng.FormatConditions.Delete
