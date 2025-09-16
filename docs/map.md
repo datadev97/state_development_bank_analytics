@@ -55,7 +55,6 @@
 │       ├── viz_capital_adequacy.png
 │       └── viz_risk_assessment.png                                   
 │   
-│
 ├── assets/                                                          # Branding assets
 │   ├── banner/                                                      # Banner image
 │   │   └── banner.png
