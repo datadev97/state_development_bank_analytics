@@ -38,6 +38,11 @@
 ├── vba_code/                                                       # VBA modules
 │   └── mod_Shock_Simulator.bas
 │
+├── sql/                                                            # SQL schema and queries
+│   ├── insert_data.sql
+│   ├── queries.sql
+│   └── schema.sql
+│
 ├── visualizations/                                                 # Exported visuals
 │   ├── tables/                                                     # Exported tables
 │   │   ├── tbl_capital_adequacy.png
