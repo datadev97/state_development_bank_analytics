@@ -18,7 +18,8 @@ This project analyzes financial data from the publicly available annual reports 
 - **data_clean**: Processed Excel dataset (2015–2024)  
 - **dashboard**: Main Excel dashboard file with KPIs and interactive charts  
 - **reports**: Exported reports in PDF and HTML formats 
-- **vba_code**: Macro modules for automation 
+- **vba_code**: Macro modules for automation
+- **sql**: schema and queries for the dataset
 - **visualizations**: Exported charts and tables  
 - **screenshots**: Dashboard and report previews  
 - **assets**: Branding assets  
