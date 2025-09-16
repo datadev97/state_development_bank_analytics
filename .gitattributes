@@ -6,4 +6,3 @@ bank_financials_dashboard_overview_2015_2024_report_files.htm linguist-detectabl
 *.html linguist-detectable=false
 *.css  linguist-detectable=false
 
-*.sql linguist-detectable=true
