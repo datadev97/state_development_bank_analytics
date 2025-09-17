@@ -38,3 +38,4 @@ WHERE metric = 'Equity';
 SELECT year, value
 FROM bank_financials_clean_overview
 WHERE metric = 'Cost-Income-Ratio' AND value > 0.60;
+
